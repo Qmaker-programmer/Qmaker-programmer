@@ -7,7 +7,7 @@
 
 ---
 
-### 🐧 ¿Quién soy? (Sin filtros de corporación)
+### 🐧 ¿Quién soy?
 
 * **El hombre de los mil apodos:** En GitHub me encuentras como Qmaker-programmer, en el commit local firmo como Andresuno/qmaker, y en la vida real soy Andrés. No me juzgues, mantener identidades secretas es parte del arte del software libre.
 * **Mi seguro de vida:** Uso Jujutsu (jj) encima de Git porque sé perfectamente que me voy a olvidar de hacer commits intermedios y voy a romper algo. El micro-commit automático en segundo plano es mi seguros ante olvidos.
