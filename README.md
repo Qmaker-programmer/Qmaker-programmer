@@ -1,14 +1,43 @@
-# Welcome to my github
-<h4>Hi there, I'm Qmaker! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px">
+# HOLA SOY Qmaker! (Andresuno / Andres) 🐧
 
- - I'm a Qmaeker!</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <br>
+  <strong>Pragmatic Open-Source Developer | Multitasking Identity | Code Alchemist</strong>
+</p>
 
-### My GitHub Analytics
-![Qmaker Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Qmaker-programmer&show_icons=true&theme=nightowl&count_private=true)
+---
 
-![Qmaker Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Qmaker-programmer&layout=compact&langs_count=8&theme=nightowl)
+### 🐧 ¿Quién soy? (Sin filtros de corporación)
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=Qmaker-programmer&style=flat-square&label=PROFILE+VIEWS&color=0078d4"/>
- <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DQmaker-programmer&longCache=true"/>
+* **El hombre de los mil apodos:** En GitHub me encuentras como Qmaker-programmer, en el commit local firmo como Andresuno/qmaker, y en la vida real soy Andrés. No me juzgues, mantener identidades secretas es parte del arte del software libre.
+* **Mi seguro de vida:** Uso Jujutsu (jj) encima de Git porque sé perfectamente que me voy a olvidar de hacer commits intermedios y voy a romper algo. El micro-commit automático en segundo plano es mi seguros ante olvidos.
+
+---
+
+### 🛠️ Mi Arsenal Tecnológico
+
+* **Frontend Emocional:** Vue 3 (Composition API) es mi hogar. Hago que la reactividad baile sin necesidad de enredarme con frameworks sobrecargados(o tal vez si).
+* **Backend de Guerrilla:** Firebase y Firestore. Configuro la seguridad ocultando los errores reales para que los atacantes lloren, y peleo contra las políticas CORS metiendo lo que sea necesario directamente en la base de datos.
+* **Entorno de Terminal:** Corro todo en qterminal porque las terminales estándar no tienen personalidad. 
+* **ADN del Sistema:** GNU/Linux, orgullosamente configurado con el formato de fecha es-CL. 🇨🇱
+
+---
+
+### 📊 Mis Estadísticas Dinámicas
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Qmaker-programmer&show_icons=true&theme=nightowl&count_private=true" alt="Qmaker Stats" width="48%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Qmaker-programmer&layout=compact&langs_count=8&theme=nightowl" alt="Qmaker Top Langs" width="48%">
+</p>
+
+---
+
+### ⚠️ Regla de Oro en mis Repositorios
+
+Si intentas buscar, escribir o meter la palabra "windows" en mis desarrollos, hay un alto porcentaje de probabilidad de que se dispare un Easter Egg destructor que mande todo a volar. Estás avisado.
+
+---
+<p align="center">
+  <sub>Chiste del dia: "man ben | cat", un hombre llamado ben que tiene un gato. :)</sub>
 </p>
