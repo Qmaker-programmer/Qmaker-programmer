@@ -1,4 +1,4 @@
-# HOLA SOY Qmaker! (Andresuno / Andres) 🐧
+# HOLA SOY Qmaker! 🐧
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
