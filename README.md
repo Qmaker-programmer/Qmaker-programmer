@@ -1,15 +1,5 @@
-# HOLA SOY Qmaker! 🐧
+# HOLA SOY Qmaker! 🐧 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  <br>
-</p>
-
-### 🛠️ Mi Arsenal Tecnológico
-
-* **Frontend:** Vue 3 (Composition API) es mi hogar. Hago que la reactividad baile sin necesidad de enredarme con frameworks sobrecargados(o tal vez si).
-* **Backend de Guerrilla:** Firebase y Firestore. Configuro la seguridad ocultando los errores reales para que los atacantes lloren, y peleo contra las políticas CORS metiendo lo que sea necesario directamente en la base de datos.
-* **Entorno de Terminal:** Corro todo en qterminal porque las terminales estándar no tienen personalidad. 
 
 ---
 
