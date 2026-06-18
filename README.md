@@ -1,8 +1,5 @@
 # HOLA SOY Qmaker! 🐧 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-
----
-
 ### 📊 Mis Estadísticas Dinámicas
 
 <p align="center">
