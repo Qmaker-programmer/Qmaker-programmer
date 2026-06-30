@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Qmaker-programmer&show_icons=true&theme=nightowl&count_private=true" alt="Qmaker Stats" width="48%">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Qmaker-programmer&layout=compact&langs_count=8&theme=nightowl" alt="Qmaker Top Langs" width="48%">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Qmaker-programmer)](https://git.io/streak-stats)
 </p>
 
 ---
